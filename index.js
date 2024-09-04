@@ -14,4 +14,6 @@ function check() {
     else {
         alert("Nope!")
     }
+
+    input.value = "";
 }
